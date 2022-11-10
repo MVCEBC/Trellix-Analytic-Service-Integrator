@@ -76,3 +76,7 @@ This is proof of concept code only. In production please make sure to not store 
 
 <img width="2129" alt="Screenshot 2022-11-10 at 17 09 00" src="https://user-images.githubusercontent.com/58554206/201147929-2b5e799a-4da2-4c9f-9d42-d3f9a9854096.png">
 
+4. DaaS dashboard with the number of submissions
+
+<img width="2123" alt="Screenshot 2022-11-10 at 17 18 18" src="https://user-images.githubusercontent.com/58554206/201149871-e6b5d6ae-62d1-43e7-a9b9-e6200af23d00.png">
+
