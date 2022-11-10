@@ -3,8 +3,9 @@
 
 This service provides the ability to integrate various Trellix solutions with Malware Analytic Services such as Detection-On-Demand (Detection as a Service). The following two use cases are implemented in the current design.
 
-1. Integrates Trellix Endpoint and Trellix TIE (Threat Intelligence Exchange) with Trellix DoD (Detection-On-Demand).
-2. Integrates Skyhigh Web Gateway with Trellix DoD (Detection-On-Demand).
+1. Integrates Trellix Endpoint and Trellix TIE (Threat Intelligence Exchange) with Trellix DaaS (Detection as a Service).
+2. Integrates Skyhigh Web Gateway (on-premise) with Trellix DaaS (Detection as a Service).
+3. Integrates Skyhigh Security Service Edge (SSE) with Trellix DaaS (Detection as a Service)
 
 This service is written as a flask web application that simulates the ATD|TIS (Advanced Threat Detection | Trellix Intelligence Sandbox) APIs. 
 This service can be used with every Trellix solution that natively integrates with ATD|TIS.
@@ -31,7 +32,7 @@ This is proof of concept code only. In production please make sure to not store 
 
    <img width="800" alt="1" src="https://user-images.githubusercontent.com/25227268/178490885-6313649d-9f54-48fb-89fe-cb41d9f7b574.png">
    
-5. Generate an API Key in DOD and enter this key in line 21. 
+5. Generate an API Key in DaaS and enter this key in line 21. 
 
 6. Run the flask app with the following command. Specify the listening IP address and Port. (e.g. listen on all IPs and port 8080)
 
