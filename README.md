@@ -69,4 +69,7 @@ This is proof of concept code only. In production please make sure to not store 
 
 <img width="2560" alt="Screenshot 2022-11-10 at 16 52 47" src="https://user-images.githubusercontent.com/58554206/201146965-5d339db1-4113-4fbb-86a2-37cf0e3913b5.png">
 
+3. Make sure Advanced Threat Detection Rule Set is enabled
+
+<img width="2129" alt="Screenshot 2022-11-10 at 17 09 00" src="https://user-images.githubusercontent.com/58554206/201147929-2b5e799a-4da2-4c9f-9d42-d3f9a9854096.png">
 
