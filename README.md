@@ -67,4 +67,6 @@ This is proof of concept code only. In production please make sure to not store 
 1. On Skyhigh Security Service Edge open Web policy and click on Anti-Malware for Trellix ATD.
 2. Configure the Policy to point to the Flask App and enter the username and password entered in Installation Step 4.
 
+<img width="2560" alt="Screenshot 2022-11-10 at 16 52 47" src="https://user-images.githubusercontent.com/58554206/201146965-5d339db1-4113-4fbb-86a2-37cf0e3913b5.png">
+
 
