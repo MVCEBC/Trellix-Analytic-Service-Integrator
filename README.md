@@ -49,7 +49,7 @@ This is proof of concept code only. In production please make sure to not store 
    
 3. Configure the IP address and Port to point to the Flask Application.
 
-## Skyhigh Web Gateway Configuration
+## On-premise Skyhigh Web Gateway Configuration
 
 1. Open the Web Gateway Policy and import a new Rule Set from the Library.
 
@@ -61,7 +61,7 @@ This is proof of concept code only. In production please make sure to not store 
 
    <img width="800" alt="4" src="https://user-images.githubusercontent.com/25227268/178503192-7ab4a74b-c990-49a6-a9fb-d2ed57b78cdf.png">
    
-   ## Skyhigh Security Service Edge Configuration
+## Skyhigh Security Service Edge Configuration
    
 1. On Skyhigh Security Service Edge open Web policy and click on Anti-Malware for Trellix ATD.
 2. Configure the Policy to point to the Flask App and enter the username and password entered in Installation Step 4.
