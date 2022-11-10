@@ -34,6 +34,9 @@ This is proof of concept code only. In production please make sure to not store 
    
 5. Generate an API Key in DaaS and enter this key in line 21. 
 
+<img width="2127" alt="Screenshot 2022-11-10 at 17 13 57" src="https://user-images.githubusercontent.com/58554206/201149202-354b8f83-77df-48e2-b4f1-c4992fcfcd40.png">
+
+
 6. Run the flask app with the following command. Specify the listening IP address and Port. (e.g. listen on all IPs and port 8080)
 
    ```
